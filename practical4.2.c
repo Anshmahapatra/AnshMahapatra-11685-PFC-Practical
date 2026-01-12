@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("name=vishnu ranjan\n");
-    printf("erp=11611\n");
+    printf("name=Ansh Mahapatra\n");
+    printf("erp=11685\n");
     
     char op;
     float a, b;
@@ -38,4 +38,5 @@ int main() {
     }
 
     return 0;
+
 }
